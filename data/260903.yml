@@ -1,11 +1,13 @@
 about:
-  description: A simple project creation tool that uses packaged templates
+  description:
+  |
+    A simple project creation tool that uses packaged templates
   license: Apache-2.0
   homepage: 
   head: dc510cf
   archived: false
   latestVersion: v1.0.0
-  collectedAt: 2026-09-03T05:19:10Z
+  collectedAt: 2026-09-03T22:35:58Z
 timeline:
   created: 2022-08-22
   lastCommit: 2025-12-14
@@ -22,7 +24,7 @@ language:
   Groovy: 281732
   Java: 64978
   Handlebars: 21043
-totalLine: 367753
+totalBytes: 367753
 recent:
   last30d:
     since: 2026-08-04
@@ -55,4 +57,4 @@ recent:
     openPR: 0
     closedIssue: 4
     openIssue: 3
-    commit: 25
+    commit: 0
